@@ -9,9 +9,13 @@ Group Members:
 NB!! This group has only 4 members
 
 Student Name and Surname
+
     1. Onthatile Mashego
+    
     2. Michelle Muller
+    
     3. Bohlokwa Moleleki
+    
     4. Evan Heyman
 
 
