@@ -145,9 +145,10 @@
             // total_input
             // 
             total_input.BackColor = SystemColors.ScrollBar;
-            total_input.Location = new Point(169, 459);
+            total_input.Font = new Font("ROG Fonts", 13.8749981F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            total_input.Location = new Point(169, 447);
             total_input.Name = "total_input";
-            total_input.Size = new Size(315, 39);
+            total_input.Size = new Size(315, 52);
             total_input.TabIndex = 11;
             // 
             // pay_cash
@@ -183,6 +184,7 @@
             calculate_btn.TabIndex = 14;
             calculate_btn.Text = "CALCULATE";
             calculate_btn.UseVisualStyleBackColor = false;
+            calculate_btn.Click += calculate_btn_Click;
             // 
             // clear_btn
             // 
@@ -193,6 +195,7 @@
             clear_btn.TabIndex = 15;
             clear_btn.Text = "CLEAR";
             clear_btn.UseVisualStyleBackColor = false;
+            clear_btn.Click += Form1_Load;
             // 
             // exit_btn
             // 
@@ -203,6 +206,7 @@
             exit_btn.TabIndex = 16;
             exit_btn.Text = "EXIT";
             exit_btn.UseVisualStyleBackColor = false;
+            exit_btn.Click += exit_btn_Click;
             // 
             // FastFoodSystem
             // 
