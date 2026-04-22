@@ -26,10 +26,15 @@ Project Setup Process:
 
 ********************************************************************************************************************************************************
 *Setting up the project in class led to some difficulties due to the following:
+
         - I (Onthatile) create the Github Repo BEFORE creating the C# Project File
+        
         - Subsequently, I created the C# Project file after
+        
         - Merging the Project File to the Github repo was the First difficulty
+        
         -There was a lot of trial and error here but...
+        
         - Here's how i fixed it without creating a new repo or project:
             > Step 1: Opened the Project in my Visual Studio
             > Step 2: (Clone local repo by navigating to :
@@ -50,6 +55,7 @@ Project Setup Process:
                         NOTE: Add commit message to go along
                     ~ Click "Commit All"
             >Step 7: Push to Github
+            
 
 SUMMATION NOTE: so git initially would give an error message when trying to commit, push or pull siting "permissions" and that was because when you create a project file, seperately or together with github, github cannot process "junk" files like /bin, /obj, /vs. so the best option when not wanting to delete them is to place them in a gitignore file and basically github will ignore all junk files
 
