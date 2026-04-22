@@ -1,14 +1,14 @@
 # Group3-project
-Week 2 Group Project: Mr Lusukama's Class
+# Week 2 Group Project: Mr Lusukama's Class
 
 
 SDT621:  Software design and testing C# 
 
 Date: 22 April  2026
 
-WEEK 2 GROUP PROJECT : Fast Food Ordering System (GitHub Collaboration)
+## WEEK 2 GROUP PROJECT : Fast Food Ordering System (GitHub Collaboration)
 
-Group Members:
+### Group Members:
 *NB!! This group has only 4 members*
 
 Student Name and Surname
@@ -22,10 +22,10 @@ Student Name and Surname
     4. Evan Heyman
 
 
-Project Setup Process:
+# Project Setup Process:
 
 ********************************************************************************************************************************************************
-*Setting up the project in class led to some difficulties due to the following:
+## Setting up the project in class led to some difficulties due to the following:
 
         - I (Onthatile) create the Github Repo BEFORE creating the C# Project File
         
@@ -33,9 +33,9 @@ Project Setup Process:
         
         - Merging the Project File to the Github repo was the First difficulty
         
-        -There was a lot of trial and error here but...
+        - There was a lot of trial and error here but...
         
-        - Here's how i fixed it without creating a new repo or project:
+        - ### Here's how i fixed it without creating a new repo or project:
             > Step 1: Opened the Project in my Visual Studio
             > Step 2: (Clone local repo by navigating to :
                         Git (top left menu-bar) > local repositry > point or search for your project folder on your computer
@@ -54,7 +54,7 @@ Project Setup Process:
                     ~ Git (top left menu-bar) > commit or stash
                         NOTE: Add commit message to go along
                     ~ Click "Commit All"
-            >Step 7: Push to Github
+            > Step 7: Push to Github
             
 
 SUMMATION NOTE: so git initially would give an error message when trying to commit, push or pull siting "permissions" and that was because when you create a project file, seperately or together with github, github cannot process "junk" files like /bin, /obj, /vs. so the best option when not wanting to delete them is to place them in a gitignore file and basically github will ignore all junk files
@@ -90,13 +90,13 @@ Developed as a group project for SDT621 - Software Design and Testing.
 | Chips  | R35.70 |
 
 ## Group Members
-| Name | Role |
-|------|------|
-| Member 1 | UI/UX Designer | Bohlokwa Moleleki
-| Member 2 | Business Logic Developer | Evan Heyman
-| Member 3 | Validation & Reset Developer | Onthatile Mashego
-| Member 4 | GitHub & Documentation Manager | Onthatile Mashego
-| Member 5 | Tester / Quality Assurance | Michelle Muller
+| Name | Role | Member |
+|------|------|------|
+| Member 1 | UI/UX Designer | Bohlokwa Moleleki|
+| Member 2 | Business Logic Developer | Evan Heyman|
+| Member 3 | Validation & Reset Developer | Onthatile Mashego|
+| Member 4 | GitHub & Documentation Manager | Onthatile Mashego|
+| Member 5 | Tester / Quality Assurance | Michelle Muller|
 
 ## Branch Structure
 - main
