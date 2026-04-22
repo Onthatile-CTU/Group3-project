@@ -60,9 +60,55 @@ Project Setup Process:
 SUMMATION NOTE: so git initially would give an error message when trying to commit, push or pull siting "permissions" and that was because when you create a project file, seperately or together with github, github cannot process "junk" files like /bin, /obj, /vs. so the best option when not wanting to delete them is to place them in a gitignore file and basically github will ignore all junk files
 
 ********************************************************************************************************************************************************
+# Project Analysis Reporting
+
+# CTU Fast Food Ordering System
+
+## Project Overview
+A Windows Forms Application built in C# using Visual Studio 2026 for a Fast Food Ordering System.
+Developed as a group project for SDT621 - Software Design and Testing.
+
+## How to Run
+1. Clone the repository
+2. Open the .sln file in Visual Studio
+3. Press F5 to run
+
+## Features
+- Select food items (Pizza, Drink, Burger, Chips)
+- Choose payment method (Cash or Card)
+- Card payments include a 15.5% surcharge
+- Calculate total amount
+- Clear and reset the form
+- Exit the application
+
+## Menu Prices
+| Item   | Price  |
+|--------|--------|
+| Pizza  | R75.00 |
+| Drink  | R18.50 |
+| Burger | R45.30 |
+| Chips  | R35.70 |
+
+## Group Members
+| Name | Role |
+|------|------|
+| Member 1 | UI/UX Designer | Bohlokwa Moleleki
+| Member 2 | Business Logic Developer | Evan Heyman
+| Member 3 | Validation & Reset Developer | Onthatile Mashego
+| Member 4 | GitHub & Documentation Manager | Onthatile Mashego
+| Member 5 | Tester / Quality Assurance | Michelle Muller
+
+## Branch Structure
+- main
+- Dev-ui-design
+- Dev-calculation-logic
+- Dev-validation-feature
+- Dev-documentation
 
 
-In progress...
+COMPLETE !!!
+
+...TASK/MEMBER 5 TO BE UPLOADED SOON...
 
  
 
