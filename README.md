@@ -71,12 +71,12 @@ Developed as a group project for SDT621 - Software Design and Testing.
 ## How to Run
 1. Clone the repository
 2. Open the .sln file in Visual Studio
-3. Press F5 to run
+3. Press F5 or green play button to run
 
 ## Features
 - Select food items (Pizza, Drink, Burger, Chips)
 - Choose payment method (Cash or Card)
-- Card payments include a 15.5% surcharge
+- Card payments include a 15.5% additional charge
 - Calculate total amount
 - Clear and reset the form
 - Exit the application
@@ -100,10 +100,7 @@ Developed as a group project for SDT621 - Software Design and Testing.
 
 ## Branch Structure
 - main
-- Dev-ui-design
-- Dev-calculation-logic
-- Dev-validation-feature
-- Dev-documentation
+    > additional branches deleted
 
 
 COMPLETE !!!
